@@ -1,2 +1,2 @@
 Refer to the paper :
-Kilho Son, Ming-Yu Liu, and Yuichi Taguchi, “Automatic Learning to Remove Multipath Distortions in Time-of-Flight Range Images”, Accepted to the IEEE international Conference on Robotics and Automation (ICRA) 2016
+Kilho Son, Ming-Yu Liu, and Yuichi Taguchi, “Learning to Remove Multipath Distortions in Time-of-Flight Range Images”, Accepted to the IEEE international Conference on Robotics and Automation (ICRA) 2016
